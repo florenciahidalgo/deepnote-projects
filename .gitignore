@@ -1,0 +1,3 @@
+.zfs/
+**/.zfs/
+*.ipynb_checkpoints/
